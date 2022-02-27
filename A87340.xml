@@ -1,0 +1,450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial character of that famous polititian and late admired minister of state, Cardinal Mazarine</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87340</idno>
+            <idno type="STC">Wing I81</idno>
+            <idno type="STC">Thomason E1085_4</idno>
+            <idno type="STC">ESTC R208051</idno>
+            <idno type="EEBO-CITATION">99867055</idno>
+            <idno type="PROQUEST">99867055</idno>
+            <idno type="VID">119345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119345)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1085[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial character of that famous polititian and late admired minister of state, Cardinal Mazarine</title>
+               </titleStmt>
+               <extent>[2], 1 [i.e. 10] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 10 misnumbered 1.</note>
+                  <note>Annotation on Thomason copy: "march 12", "1660"; imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mazarin, Jules, 1602-1661 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119345:1" rendition="simple:additions"/>
+            <p>AN Impartial Character Of that famous POLITITIAN And late admired
+MINISTER OF STATE, Cardinal Mazarine.</p>
+            <q>
+               <hi>De mortuis nil niſi Bonum.</hi>
+            </q>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119345:2"/>
+            <pb n="1" facs="tcp:119345:2"/>
+            <head>An Impartial Character of that fa<g ref="char:EOLhyphen"/>mous Politician, and late
+admi<g ref="char:EOLhyphen"/>red Miniſter of State, Cardnal <hi>Mazarine.</hi>
+            </head>
+            <p>WHat need we wonder (whileſt we live in an age ſo envious,
+that when men find they cannot arrive to thoſe heights of parts or virtues
+wherewith God, Nature or Induſtry hath endowed others, they think it a glory
+to brand their Fame, whoſe Perfections they cannot reach to) That this worthy
+Cardinal ſhould be endeavoured, during his whole courſe of life, to be made
+the publike ſcorn and <hi>odium</hi> of the world, whilſt yet certainly no
+ſcandals what<g ref="char:EOLhyphen"/>ſoever caſt upon him, could make him diſeſteemed in the
+minds of any perſons, unleſs thoſe who not having worth in themſelves,
+hoped that envious detraction might bring him ſo low as to make them ſhine
+in the ſame ſphear.</p>
+            <p>It hath been the folly of the world for many ages paſt, to
+repreſent inimitable Wiſdom as abſolute Wickedneſs: Nor have any fallen
+more under this plague, then thoſe who have been called to be Miniſters of
+State; as if the being endow<g ref="char:EOLhyphen"/>ed with a Prudence above other men, and fitted
+with great<g ref="char:EOLhyphen"/>er abilities to ſerve their King and Countrey, were a crime
+ſufficient to make them odious to all: But <hi>England</hi> hath been a ſad
+<hi>Example</hi> to other Nations, and a caveat it will be for<pb n="2" facs="tcp:119345:3"/>them to beware not to eſteem Enemies their wiſeſt preſer<g ref="char:EOLhyphen"/>vers;
+nor is it (I think) a deſpicable ſuppoſition to imagine, That
+<hi>France</hi> had run into the ſame diſtractions with us, had ſhe
+loſt a <hi>Mazarine</hi> by the ſame violence we loſt a
+<hi>Strafford.</hi>
+            </p>
+            <p>Methinks it is a Paradox to me to conſider that Miniſters of
+State ſhould be ſo often ſubject to the peoples violent love and hatred;
+ſo that whilſt with one breath they deifie them, the very next air they
+ſuck in, ſhall proclaim them De<g ref="char:EOLhyphen"/>vils, or worſe; but the Multitude is
+<hi>Bellua multorum Capitum,</hi> a Beaſt of many Heads, and every Head (like
+ſo many horns ſpringing out of it) fill'd with various <hi>Caprivio's</hi>
+and hu<g ref="char:EOLhyphen"/>mours, moſt of which being bad, muſt neceſſarily incline to
+their Center, and think all like themſelves; beſides the depra<g ref="char:EOLhyphen"/>vity of
+moſt Natures hath bred ſuch a corruption in Man<g ref="char:EOLhyphen"/>kind, that twenty, nay five
+hundred good actions are wiped out and forgotten by the remembrance of one
+lapſe, which perhaps proceeded from no other deſign or cauſe, but as it
+is <hi>humanum errare.</hi>
+            </p>
+            <p>Yet I endeavour not hereby to juſtifie all Miniſters of State
+(there may be voluntary errors in ſome, who inſtead of being the
+preſervers, may prove the deſtroyers of their Countrey) but to maintain,
+that <hi>Policy</hi> (however eſteemed) is juſtifiable, though by it (to
+the damage of others) we pro<g ref="char:EOLhyphen"/>cure our own ſafety.</p>
+            <p>But this may ſeem too large a deviation; I will therefore
+deſcend to my promiſed purpoſe: This worthy Cardinal, who for ſo long
+time hath ſteered the Helm of <hi>France,</hi> was indeed of but an obſcure
+Birth and Extraction, his Coun<g ref="char:EOLhyphen"/>trey <hi>Sicilie,</hi> the people of which
+Iſland are obſerved of all <hi>Italians,</hi> to bee moſt ſagace and
+cunning; a Compoſition as it were, of <hi>Spaniard, Italian</hi> and
+<hi>French;</hi> not ſo lofty as the firſt, ſomewhat more ſolid then
+the ſecond, and not ſo light as the laſt; not ſo tedious in their
+Counſels as the <hi>Spaniard,</hi> nor ſo ſlow in execution as either
+them or the <hi>Italian;</hi> yet not ſo quickly deſperate as the
+<hi>French,</hi>
+            </p>
+            <p>The greatneſs of his ſpirit appeared in his youth, which made
+his ingenuous Soul deteſt confinement to his Native Soile, where the
+obſcurity of his Birth might make him de<g ref="char:EOLhyphen"/>ſpiſed,<pb n="3" facs="tcp:119345:3"/>and not
+put him in a capacity to exerciſe thoſe parts wherewith Nature hath endowed
+him. This made him re<g ref="char:EOLhyphen"/>ſolve to travel, and the Glories of <hi>Rome</hi>
+invited him thither; where he firſt became Page to a <hi>Germane</hi> Count,
+whoſe being addicted to play; was the Riſe of <hi>Mazarines</hi> fortunes;
+for hee being both cunning and witty obſerved thoſe tricks which his
+Maſter uſed, and having perfectly learned them; Firſt practi<g ref="char:EOLhyphen"/>ſed with
+his Companions, and after with others, by which means fortune (having
+deſigned him great) ſo favoured him that he ſoon got a ſtock of one
+thouſand Crowns.</p>
+            <p>Thus having money to ſet forth &amp; imbelliſh his wit
+judge<g ref="char:EOLhyphen"/>ment, the knowledge he had of his own parts made him aſ<g ref="char:EOLhyphen"/>pire to ſome
+higher preferment then Page, to one who lived only by his Wits, and his
+abilities too compaſſe what he de<g ref="char:EOLhyphen"/>ſired, encouraged him to get into the
+ſervice of Cardinal <hi>Bar<g ref="char:EOLhyphen"/>barino</hi> then cheif Favorite to his Holineſs
+the Pope, which by the help of his money and a pleaſing and affable carriage,
+he ſoon effected, and ſo behaved himſelf in his ſervice that before
+many years were paſt, the Cardinall began to take notice of the ſagacity
+and greatneſſe of his ſpirit, and to look upon him as a perſon fit to
+be intruſted with the moſt important affairs: yet ſuch was
+<hi>Barbarino's</hi> wiſedom, that before he would imploy him in thoſe; he
+made uſe of him in buſineſs of ſmaller moment</p>
+            <p>The performance of theſe in ſuch a manner as ſuited with the
+Cardinalls liking, made him at length reſolve to imploy him in greater, as a
+reward of his being faithfull and carefull in the leſſe; he had obſerved
+that during the time of his ſervice he made it his buſineſſe at ſpare
+times to ſtudy State-affaires, and that with a kind of greedineſs he
+liſtned after and ſtrove to keep in memory; thoſe State maxims which he
+often oferved to fall from his ſo well-skil'd Maſter; &amp; as the
+Excellency of the one made the other ambitious to learn of him, ſo the others
+willing<g ref="char:EOLhyphen"/>neſs and aptneſſe to learn was a Prompter to the Teacher to
+inſtruct him.</p>
+            <p>Without doubt, as the Sudy of State-policies, is of all the moſt
+difficult, ſo the moſt delightfull: for beſides the pro<g ref="char:EOLhyphen"/>miſe which a
+man makes to himſelf by being well verſed in the Government and
+Politick-Rules of ordering and ſway<g ref="char:EOLhyphen"/>ing<pb n="4" facs="tcp:119345:4"/>Kingdomes and
+States: there is a kind of delight in the thing it ſelf, juſt like the
+Alchymiſt, who though he makes the Elixar his chief hopes and deſign, yet
+he finds pleaſure in thoſe ſeverall operations, by which he thinks to
+attain it.</p>
+            <p>But to proceed, our Politician, having with care and in<g ref="char:EOLhyphen"/>duſtry
+ſucked in thoſe rules which were given him by his wiſe and
+underſtanding Maſter; 'twas thought fit that his Theory ſhould be turned
+into practice, which is the life of all Learn<g ref="char:EOLhyphen"/>nings or Doctrines watſoever,
+for ſtill then all the reſt ſeems but a Chaos, a thing confuſed, and
+indeed nothing.</p>
+            <p>Yet is he not at firſt truſted to himſelf, leſt
+<hi>Phaeton</hi>-like, his too young experienced Judgement might prove raſh,
+and ſo overthrow him; for young heads [though they may well underſtand the
+management of a buſineſs before they are put upon it] are to a Subject to a
+prove fiery, and ruine both themſelves and what they undertake, it hath
+therefore al<g ref="char:EOLhyphen"/>ways been held as a conſtant maxime, That experience is beſt
+gained by degrees.</p>
+            <p>He is therefore firſt made Coadjutor or Deputy to the
+Flo<g ref="char:EOLhyphen"/>rentine Nuncio; and after ſome time of experience under him uſed rather
+as a Spye upon him, then aſſociate to him: his Let<g ref="char:EOLhyphen"/>ters continually
+informing his maſter Cardinal <hi>Barberino</hi> of the <hi>Legates</hi>
+tranſactions, whereby he not onely had the op<g ref="char:EOLhyphen"/>portunity to give proofe of the
+abilities of his pen, but like<g ref="char:EOLhyphen"/>wiſe to improve that knowledge he had already
+attained.</p>
+            <p>For there is nothing more enlightens any man, whether imployed in
+Merchandize or State-Affairs, then the having the happineſſe of a good and
+able Correſpondent, for his Epiſtles are like ſo many flowers; out of
+which we may ſuck honey to return in anſwer, whilſt our knowledge of his
+abili<g ref="char:EOLhyphen"/>ties makes us endeavour to retort the pureſt and cleareſt.</p>
+            <p>But the Abilities of our Politicians pen was not the only thing
+that made him ſo much reſpected, his Carriage on both ſides made him more
+deſervedly be wondered at; for though he was placed as a ſoe over the
+<hi>Florentine Nuntio,</hi> yet he com<g ref="char:EOLhyphen"/>ported himſelf with that Strange Kind
+of affection towards him, that he rather deemed him his boſome friend,
+whilſt yet<pb n="5" facs="tcp:119345:4"/>he let nothing either in favour or prejudice of
+him paſſe with which he acquainted not his Maſter <hi>Barbarino.</hi>
+            </p>
+            <p>And indeed it was now his time to play his Cards well, or throw up
+the Game; for ſhould he have been at firſt diſcovered to have been but a
+weak Gameſter, 'tis ten to one, whether any more Stakes would have been
+ventured on his head, whilſt managing his prime imployments wel he madeway to
+himſelf, for thoſe greater and more glorious that attended him.</p>
+            <p>For not long was it e're the <hi>Florentine Nuntio</hi> dying?
+'twas no difficult thing for his Maſter Cardinal <hi>Barbarino</hi> to
+procure his holineſſe, the Pope, to declare <hi>Mazarin, Nuntio,</hi> which
+he did; ſo that from Coadjutor to a Legat he became to be an abſolute
+Legatt; and from being Subſtitute to others to ſteer himſelf no ſmall
+Helm in the management of State affairs; but ſuch was the Excellency of his
+knowledge, Induſtry and Inge<g ref="char:EOLhyphen"/>nuity; that in the tranſacting of theſe
+affairs he came off with greater honour and applauſe then ever.</p>
+            <p>For he continually made that his care (which ſhould be the duty
+of every Legatt or Embaſſadour, to wit, that the ſole aim of his actions
+ſhould be to benefit thoſe that imployed him; nor would he only take
+occaſions to do it when they were proffered, but from the Abyſſe of his
+politick judgment would fetch up occaſions to ſerve them.</p>
+            <p>Theſe prudent managements of buſineſſe in this ſmall
+State were the motives which made him be called to <hi>Rome,</hi> there to
+attend ſom higher Imployment; where he for ſome time waited the pleaſure
+of his holineſſe, who now undertook no Counſels, at leaſt determined on
+nothing till he made <hi>Mazarini</hi> privy to it, ſo that he began to
+ſhine like a Star in the Popes Court.</p>
+            <p>But at length an Imployment was thought of worthy his great
+Spirit, becauſe none other was thought fit for it but him ſelf; The cunning
+Plots, Windings and Artifices of Cardinal <hi>Richlieu</hi> in France, made not
+onely the Auſtrian Princes, but the Church it ſelf ſtand in fear whither
+his deſigns might tend: 'Twas therefore thought fit that ſome perſon or
+other ſhould be ſent to counter-plot him, and if poſſibly to fathom the
+bottom of his intentions; and this Employment by a general Voice is caſt on
+<hi>Mazarine,</hi> who having a Cap given him by the Pope, is ſent.</p>
+            <p>
+               <pb n="6" facs="tcp:119345:5"/>Being arrived at <hi>Paris,</hi> and ſetled in
+his Employment there, he firſt ſcrues himſelf into a familiarity with
+<hi>Richlieu,</hi> that he might have the better opportunity to draw his
+de<g ref="char:EOLhyphen"/>ſigns out of him: he uſes all the artifices that awel experien<g ref="char:EOLhyphen"/>ced
+Politician or Stateſman could imagine to dive into his intentions; but
+finding that the farther he waded, the far<g ref="char:EOLhyphen"/>ther he was to ſeek, and that all
+his endeavours would prove as vain as the fathoming a bottomleſs ſea; he
+thinks to deſiſt farther purſuit, yet knows not what to do.</p>
+            <p>To have returned to <hi>Rome,</hi> and there given an account of
+his ill ſucceſs and inabilities to finiſh what he had under<g ref="char:EOLhyphen"/>taken, would
+for ever have blaſted that Honour and Re<g ref="char:EOLhyphen"/>pute he had formerly gotten; and
+that being forgotten, he ſhould for ever after live obſcure: His ambitious
+thoughts therefore prompt him to a piece of infidelity, finding that he cannot
+thrive and be faithful to <hi>Rome;</hi> he reſolves to turn unfaithful, that
+he might ſtill riſe higher; and therefore inſtead of ſearching out the
+depth of the <hi>French</hi> Cardinals Councils againſt the Church, he
+declares to him the depth of the Churches Councils againſt him.</p>
+            <p>I confeſs this was a piece of infidelity which can no way be
+juſtified or excuſed, to betray the ſecrets of his Embaſ<g ref="char:EOLhyphen"/>ſie to an
+Enemy, and worſe of all it was to join with him; for <hi>Richlieu</hi>
+finding him to be a man of an excellent, ſa<g ref="char:EOLhyphen"/>gace and ſubtil
+underſtanding, in requital of his having betrayed the Popes Counſels to
+him, receives him into his favour, makes him his Creature, and inſtills into
+him all his Plots and Devices; ſo that during his life he was his Coadjutor,
+and after his death his Succeſſor: which Place that he hath managed with an
+unimaginable Diſcretion, Prudence and Policy, the Chriſtian World is
+judge.</p>
+            <p>Thus from an obſcure <hi>Sicilian</hi> was our Cardinal
+advan<g ref="char:EOLhyphen"/>ced by ſteps and degrees to be the chief Miniſter of State in
+<hi>France,</hi> and proved indeed the Support of that Kingdom. His firſt
+entrance unto this Employment was in the time of <hi>Lewis</hi> the 13th. but
+during his Reign he was but Coadjutor to <hi>Richlieu,</hi> or at leaſt had
+but to follow his ſteps; who from a weak and Imbecil Prince, had made that
+King the fear of<pb n="7" facs="tcp:119345:5"/>Chriſtendom: But after the death of
+<hi>Richlieu</hi> and <hi>Lewis,</hi> he was chief of Council to the Queen
+Regent, who being a Woman of a deep ſearching, had during the life of
+<hi>Richlieu,</hi> received him into favour, as perceiving in how great need
+ſhe ſhould ſtand of ſuch a Counſellor at <hi>Richlieu</hi>'s death,
+who was then aged; and theſe were the chief Reaſons of her caſt<g ref="char:EOLhyphen"/>ing ſo
+benevolent a countenance upon him, rather then that he was received into her
+bed, as many fondly have imagined.</p>
+            <p>During the Infancy of the young King <hi>Lewis</hi> the 14th. his
+Prudence and Policy kept the State &amp; Kingdom of <hi>France</hi> from any
+conſiderable diſturbances, though he had continu<g ref="char:EOLhyphen"/>ally the envy of the
+Princes of the blood, who though they could comport <hi>Richlieu,</hi> as being
+their own Countreyman, yet could not endure that a ſtranger ſhould be
+advanced to the chief Manage of the State, which they thought of right did
+belong to them, as perſons upon whom in time the Crown it ſelf might
+juſtly deſcend: The chief of his Ene<g ref="char:EOLhyphen"/>mies indeed was the Prince of
+<hi>Conde,</hi> who left no way unat<g ref="char:EOLhyphen"/>tempted to rid bim out of the way; which
+made many un<g ref="char:EOLhyphen"/>derſtanding men, who lookt upon the inſide of things to
+imagine, that if <hi>Conde</hi> could remove ſo faithful a Counſel<g ref="char:EOLhyphen"/>lor, he
+would next attempt to thruſt the young King out of his Throne.</p>
+            <p>But ſuch was the Wiſdom and Prudence of our Politick Cardinal,
+that he not onely fruſtrated all his deſigns, but at length drave him out
+of <hi>France,</hi> and made him flye to the Enemies of his Countrey, the
+<hi>Spaniards,</hi> for relief and ſuc<g ref="char:EOLhyphen"/>cour; but eſpecially at that time he
+ſhewed himſelf a true Po<g ref="char:EOLhyphen"/>litician, when <hi>Conde</hi> had ſo much
+incenſed the Princes and People of <hi>Paris</hi> againſt him, that the
+King being but now arrived at the age to take the Government of the State in<g ref="char:EOLhyphen"/>to
+his own hands, was with the Cardinal forced to depart from <hi>Paris,</hi> and
+Arms ready to be raiſed on both ſides; the Duke of <hi>Lorain</hi> who had
+then an Army ſtanding, being called into the aſſiſtance of the Princes,
+whom nothing but either the Death or Baniſhment of the Cardinal could
+ſatisfie; but <hi>Mazarine</hi> by his cunning artifices drew <hi>Lorain</hi>
+from aiding hem, ſo that the Princes came to an agreement with the King, and
+left <hi>Conde</hi> to ſhift for himſelf.</p>
+            <p>
+               <pb n="8" facs="tcp:119345:6"/>This was the grand difference in which his
+Majeſty of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is ſaid to have enterpoſed, and ſenſible
+of the miſeries he and his Countreys and Kingdoms ſuffered by a Civil War,
+perſwaded them to a Mediation and Reconciliation, where<g ref="char:EOLhyphen"/>by he is ſaid to
+have gained to himſelfe an <hi>odium</hi> from both Parties, each believing
+him to be againſt them; but eſpecially the Cardinall is ſaid to have been
+poſſeſſed, that he ſhould adviſe the King of France, <hi>rather to
+let him be baniſhed from his Court and Kingdom, them hazard the embruing his
+Countrey in a Civil War, from whence ſo many evils muſt neceſsarily
+enſue;</hi> which ſome affirm made him ever after an implacable Ene<g ref="char:EOLhyphen"/>my to
+his Majeſty of <hi>England.</hi>
+            </p>
+            <p>But indeed I do neither believe him to be his Enemy, nor either
+friend or enemy to any Prince or Country, any farther then at it ſtood with
+the intereſt of France, whoſe faithful Mi<g ref="char:EOLhyphen"/>niſter of State he was, and
+whoſe intereſt he purſued. accor<g ref="char:EOLhyphen"/>ding indeed to his duty, without
+reſpect either to Alliance or Conſanguinity. That this ſufficiently
+appears by his making Peace and League with that Tyrant &amp; Traytor
+<hi>Oliver Crom<g ref="char:EOLhyphen"/>wel,</hi> upon connection of baniſhing all the Royal Progeny
+of England out of France; which though it were an action that ſounded with a
+great deal of diſhonor in the ears of all Chri<g ref="char:EOLhyphen"/>ſtian Princes, yet was it a
+League very much for the Intereſt of France, and therefore correſpondent to
+his duty as a Stateſman, whoſe care was not to preſerve the King of
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but the Kingdom of <hi>France,</hi> and by it himſelf in
+his Power and Glory. And ſelf-preſervation we all know to be the firſt
+Maxim of Policy.</p>
+            <p>And that this League was abſolutely beneficial and
+ne<g ref="char:EOLhyphen"/>ceſſary for <hi>France,</hi> as the ſtate of that Kingdome then
+ſtood, who can doubt, when they conſider what Potent Enemies ſhe had then
+to wage War withall, the Spaniards daily and hourly intrenching upon the French
+Domini<g ref="char:EOLhyphen"/>ons, beſides a Faction to oppoſe within it ſelf; ſo that without
+ſome aſſiſtance, ſhe ſeemed to be in a ſinking con<g ref="char:EOLhyphen"/>dition; and
+how by that aſſiſtance ſhe again ſprung up, and ſhooted out her
+branches, is ſo lately done, that it can<g ref="char:EOLhyphen"/>not be forgotten.</p>
+            <p>
+               <pb n="9" facs="tcp:119345:6"/>Nor muſt we account it among the leaſt of
+his policies, that of contracting the Match between the King of <hi>France</hi>
+and <hi>Infanta</hi> of <hi>Spain,</hi> which ſeems to me juſt as it were
+the period of this Labours, that as he had maintained that Kingdom
+flouriſhing during his whole life-time by his Wiſdom and Policy, ſo he
+would at death leave it in a firm and entire peace; and who knows but that he
+inten<g ref="char:EOLhyphen"/>ded by this Peace to have endeavoured (had not God re<g ref="char:EOLhyphen"/>ſtored him by
+better means before it was perfected) the inſtating of our King into his
+Crowns and Kingdoms, in recompence of thoſe wrongs the Intereſt of
+<hi>France</hi> had before ſwayed him to.</p>
+            <p>Should I enumerate all his Politick tranſactions, I ſhould
+ſwell this intended ſhort Character of him into a Volume: I ſhall
+therefore give an account of his Perſon and par<g ref="char:EOLhyphen"/>ticular Virtues; and ſo
+conclude.</p>
+            <p>He was neither of a tall ſtature, nor very Corpulent; of a
+Mercurial Complexion, Sanguine, yet ſomewhat incli<g ref="char:EOLhyphen"/>ning to a melancholly
+conſtitution, adorned with very handſome features in his face, without
+doubt excellent in his youth; yet in his oldeſt age ſo clear, that a man
+might gueſs by them the greatneſs of his Soul.</p>
+            <p>His Carriage and Diſcourſe were generally affable to all; yet
+ſo extreamly reſerved and cloſe in all his deſigns, as was admirable,
+though he would often ſeem to diſcloſe or diſcover what he kept moſt
+ſecret; A man every way fitted for a Stateſman, and ſuch a one whoſe
+Foxes Tail being pieced to the Lyon-like ſtrength of <hi>France,</hi> might
+in time (had it not been for her Civil and inteſtine Facti<g ref="char:EOLhyphen"/>ons) have made her
+the terror of the World.</p>
+            <p>I never could hear that his worſt Enemies could ever brand him
+with ony peculiar Vice: Covetous he was not; for though he muſt needs have
+gotten great ſums of mo<g ref="char:EOLhyphen"/>ney, yet he expended ſo freely, and chiefly in
+Curioſi<g ref="char:EOLhyphen"/>ties fetched from <hi>Italy;</hi> my ſelf have ſeen fiften
+hundred ancient Roman Statuaes in his Palace at <hi>Paris,</hi> which in all
+inward glories, far exceeded that of the Kings of <hi>France.</hi>
+            </p>
+            <p>
+               <pb n="1" facs="tcp:119345:7"/>He was a Perſon of whom I cannot believe any
+other reaſon for his being made odious, but that he exceeded others in
+Prudence and Policy. In ſum, he was to the Kingdom of <hi>France</hi> what
+the Lord <hi>H.</hi> is to our preſent So<g ref="char:EOLhyphen"/>veraign, <hi>A faithful
+Counſellor, and prudent Miniſter of State.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>An Advertiſement.</head>
+            <p>THere is lately publiſht an excellent piece, Intituled,
+<hi>Mo<g ref="char:EOLhyphen"/>dern Policy completed;</hi> or, <hi>The Actions and Counſels, Civil
+and Military of his Excellency the Lord General MONCK, un<g ref="char:EOLhyphen"/>der all Revolutions
+ſince 1640, to 1660; with the Principles mo<g ref="char:EOLhyphen"/>ral and Political upon which they
+were grounded; illuſtred out of the beſt Maſters of Policy, Antient and
+Modern.</hi> Sold by <hi>Henry Marſh</hi> at the <hi>Princes Arms</hi> in
+<hi>Chancery-lane.</hi> 1661.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
